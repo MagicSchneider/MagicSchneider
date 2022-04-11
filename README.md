@@ -1,13 +1,11 @@
-### <h1 align="center"> Olá, eu sou o Mateus! 👋</h1>
+<h1 align="center"> Olá, eu sou o Mateus! 👋</h1>
 
-*<h4 align="center">Atualmente estudando e melhorando minhas skills.</h4>*
-
- <div style="display: inline_block" align="center"><br>
-  <h3 align="center">Metas 2022:</h3>
-  ✔ <img align="center" alt="Mag-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-ㅤ|ㅤ✕ㅤ<img align="center" alt="Mag-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-ㅤ|ㅤ✕ㅤ<img align="center" alt="Mag-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-ㅤ|ㅤ✕ㅤ<img align="center" alt="Mag-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<div style="display: inline_block" align="center"><br>
+ <h4 align="center">Atualmente estudando e melhorando minhas skills.</h4>
+ <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-Check-brightgreen?style=for-the-badge">
+ㅤ<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-In%20Progress-yellow?style=for-the-badge">
+ㅤ<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-In%20Progress-yellow?style=for-the-badge">
+ㅤ<img align="center" alt="JS" src="https://img.shields.io/badge/JS-In%20Progress-yellow?style=for-the-badge">
  </div>
 
 ##
